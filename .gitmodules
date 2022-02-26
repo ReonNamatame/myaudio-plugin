@@ -1,0 +1,5 @@
+[submodule "libs/JUCE"]
+	path = libs/JUCE
+	url = git@github.com:juce-framework/JUCE.git
+	ignore = all
+	
